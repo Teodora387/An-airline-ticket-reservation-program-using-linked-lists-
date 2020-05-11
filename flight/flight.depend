@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589217267 source:c:\teo\cursuri\sem2\ads2\flight\main.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<list>
+	<iostream>
+	<string>
+	<sstream>
+	<iomanip>
+	<vector>
+
